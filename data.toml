@@ -5,7 +5,7 @@ image = "jake.webp"
 theme = "dark"
 primary_color = "#511223"
 text_align = "center"
-gtag_id = "G-XLJ81DCZFV"
+gtag_id = ""
 base_url = "http://untoldsystems.github.io/links/"
 
 [[sections]]
@@ -13,7 +13,7 @@ title = "Links"
 description = "Look for us on these websites"
 direction = "row"
 item_style = "filled"
-icon_size = "50px"
+icon_size = "30px"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/instagram/ffffff"
 title = "Instagram"
@@ -23,7 +23,7 @@ icon = "https://cdn.simpleicons.org/bluesky/ffffff"
 title = "Bluesky"
 url = "https://bsky.app/profile/untoldsystems.bsky.social"
 [[sections.items]]
-title = "Itch"
+title = "itch.io"
 icon = "https://cdn.simpleicons.org/itch.io/ffffff"
 url = "https://untoldsystems.itch.io/"
 
