@@ -24,7 +24,7 @@ title = "Bluesky"
 url = "https://bsky.app/profile/untoldsystems.bsky.social"
 [[sections.items]]
 title = "Itch"
-icon = "https://cdn.simpleicons.org/itch/ffffff"
+icon = "https://cdn.simpleicons.org/itch.io/ffffff"
 url = "https://untoldsystems.itch.io/"
 
 [[sections]]
