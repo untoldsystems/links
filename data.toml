@@ -6,7 +6,7 @@ theme = "dark"
 primary_color = "#511223"
 text_align = "center"
 gtag_id = "G-XLJ81DCZFV"
-base_url = "https://links.untoldsystems.com"
+base_url = "http://untoldsystems.github.io/links/"
 
 [[sections]]
 title = "Movies"
